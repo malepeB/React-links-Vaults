@@ -24,3 +24,5 @@ npm run build
 3. The included workflow (`.github/workflows/deploy.yml`) builds and publishes on every push.
 
 Netlify / Vercel also work: build command `npm run build`, output directory `dist`.
+
+## Submitted by Boitshepo
